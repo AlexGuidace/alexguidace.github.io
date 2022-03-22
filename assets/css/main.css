@@ -23,6 +23,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.margin-middle {
+	margin: auto;
+}
+
 .noMargin {
 	margin-bottom: 0;
 }
