@@ -24,7 +24,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 .noMargin {
-	margin-bottom: 19px;
+	margin-bottom: 0;
 }
 
 body {
