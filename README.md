@@ -19,7 +19,6 @@ Here's a partial image of the homepage. Click it for a larger version.
 # Project Files
 
 * [index.html](#index.html)
-* [about.html](#about.html)
 * [ux_design.html](#ux_design.html)
 
 ## index.html
