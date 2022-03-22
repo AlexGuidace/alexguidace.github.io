@@ -23,6 +23,10 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+.noMargin {
+	margin-bottom: 19px;
+}
+
 body {
 	line-height: 1;
 }
