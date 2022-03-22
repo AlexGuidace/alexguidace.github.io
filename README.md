@@ -25,8 +25,5 @@ Here's a partial image of the homepage. Click it for a larger version.
 ## index.html
 My homepage. It's full of projects built in various languages!
 
-## about.html
-A page about my mission as a developer.
-
 ## ux_design.html
 A page concerning my knowledge and experience in the realm of user experience design and visual design.
