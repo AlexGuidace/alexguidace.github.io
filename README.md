@@ -10,10 +10,6 @@
 # Description
 A responsive website showing off some of my coding and user experience design projects.
 
-Here's a partial image of the homepage. Click it for a larger version.
-
-<img src="images/My_Site.png">
-
 #
 
 # Project Files
