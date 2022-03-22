@@ -23,7 +23,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-.tiles invisible-article {
+.invisible-article {
 	position: relative;
 	width: calc(33.33333% - 2.5em);
 	margin: 2.5em 0 0 2.5em;
