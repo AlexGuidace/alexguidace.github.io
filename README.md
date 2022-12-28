@@ -5,7 +5,7 @@
 # **Alex Guidace's Portfolio Website**
 
 # Description
-A responsive website mostly concerned with my software learning projects.
+A responsive website primarily concerned with my software learning projects.
 #
 
 # Project Files
