@@ -5,7 +5,7 @@
 # **Alex Guidace's Portfolio Website**
 
 # Description
-A responsive website showing off some of my coding and user experience design projects.
+A responsive website mostly concerned with software learning projects.
 #
 
 # Project Files
@@ -14,7 +14,7 @@ A responsive website showing off some of my coding and user experience design pr
 * [ux_design.html](#ux_design.html)
 
 ## index.html
-My homepage. It's full of projects built in various languages!
+My homepage.
 
 ## ux_design.html
 A page concerning my knowledge and experience in the realm of user experience design and visual design.
