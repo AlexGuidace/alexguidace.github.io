@@ -11,9 +11,22 @@ A portfolio website of my software development projects.
 # Project Files
 
 * [index.html](#index.html)
+* [about.html](#about.html)
+* [odin_project.html](#odin_project.html)
+* [other_learning_projects.html](#other_learning_projects.html)
 * [ux_design.html](#ux_design.html)
 
 ## index.html
+The homepage.
+
+## about.html
+A page about me.
+
+## odin_project.html
+A page containing web development projects completed in The Odin Project.
+
+## other_learning_projects.html
+A page containing projects completed from other promgramming courses I've taken.
 
 ## ux_design.html
 A page about my experience as a student of user experience and visual design.
