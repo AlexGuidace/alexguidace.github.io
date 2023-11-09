@@ -5,7 +5,7 @@
 # **Alex Guidace's Portfolio Website**
 
 # Description
-A responsive website primarily concerned with my software learning projects.
+A portfolio website of my software development projects.
 #
 
 # Project Files
@@ -14,7 +14,6 @@ A responsive website primarily concerned with my software learning projects.
 * [ux_design.html](#ux_design.html)
 
 ## index.html
-My homepage.
 
 ## ux_design.html
-A page concerning my knowledge and experience in the realm of user experience design and visual design.
+A page about my experience as a student of user experience and visual design.
