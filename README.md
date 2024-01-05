@@ -10,11 +10,11 @@ A portfolio website of my software development projects.
 
 # Project Files
 
-* [index.html](#index.html)
-* [about.html](#about.html)
-* [odin_project.html](#odin_project.html)
-* [other_learning_projects.html](#other_learning_projects.html)
-* [ux_design.html](#ux_design.html)
+* [index.html](#indexhtml)
+* [about.html](#abouthtml)
+* [odin_project.html](#odin_projecthtml)
+* [other_learning_projects.html](#other_learning_projectshtml)
+* [ux_design.html](#ux_designhtml)
 
 ## index.html
 The homepage.
