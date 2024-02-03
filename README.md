@@ -11,7 +11,7 @@ A portfolio website of my software development projects.
 # Project Files
 
 * [index.html](#indexhtml)
-* [about.html](#abouthtml)
+* [my_mission.html](#my_missionhtml)
 * [odin_project.html](#odin_projecthtml)
 * [other_learning_projects.html](#other_learning_projectshtml)
 * [ux_design.html](#ux_designhtml)
@@ -19,8 +19,8 @@ A portfolio website of my software development projects.
 ## index.html
 The homepage.
 
-## about.html
-A page about me.
+## my_mission.html
+A page about my mission as a software engineer.
 
 ## odin_project.html
 A page containing web development projects completed in The Odin Project.
