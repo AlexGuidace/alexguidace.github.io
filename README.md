@@ -16,7 +16,7 @@ A portfolio website of my software development projects.
 - [my_mission.html](#my_missionhtml)
 - [nasa.html](#nasahtml)
 - [current_work.html](#current_workhtml)
-- [other_learning_projects.html](#other_learning_projectshtml)
+- [other_projects.html](#other_projectshtml)
 - [ux_design.html](#ux_designhtml)
 
 ## index.html
@@ -35,9 +35,9 @@ A page about the work I did on web applications at NASA.
 
 A page containing web development projects completed in "Full Stack open" course.
 
-## other_learning_projects.html
+## other_projects.html
 
-A page containing projects completed from other promgramming courses I've taken.
+A page containing past, real-world projects or projects completed in past programming courses.
 
 ## ux_design.html
 
