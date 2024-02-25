@@ -37,7 +37,7 @@ A page containing web development projects completed in "Full Stack open" course
 
 ## other_projects.html
 
-A page containing past, real-world projects or projects completed in past programming courses.
+A page containing past, real-world, software projects or software projects completed in past programming courses.
 
 ## usability.html
 
