@@ -17,7 +17,7 @@ A portfolio website of my software development projects.
 - [nasa.html](#nasahtml)
 - [current_work.html](#current_workhtml)
 - [other_projects.html](#other_projectshtml)
-- [ux_design.html](#ux_designhtml)
+- [usability.html](#usabilityhtml)
 
 ## index.html
 
@@ -39,6 +39,6 @@ A page containing web development projects completed in "Full Stack open" course
 
 A page containing past, real-world projects or projects completed in past programming courses.
 
-## ux_design.html
+## usability.html
 
-A page about my experience as a student of user experience and visual design.
+A page about my experience as a student of user experience.
