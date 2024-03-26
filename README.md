@@ -6,7 +6,7 @@
 
 # Description
 
-A portfolio website of my software development projects.
+A portfolio website of my software development projects and more information about me.
 
 #
 
